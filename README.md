@@ -1,4 +1,4 @@
-# Aidekiq Demo
+# Sidekiq Demo
 
 ## A sample project to test the sidekiq worker of ruby.
 
